@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p-arjunie&label=Profile%20views&color=0e75b6&style=flat" alt="p-arjunie" /> </p>
 
-<p align="left"> <a href="https://twitter.com/saapaathukorala" target="blank"><img src="https://img.shields.io/twitter/follow/saapaathukorala?logo=twitter&style=for-the-badge" alt="saapaathukorala" /></a> </p>
-
 - 🔭 I’m currently working on [HealthFirst Pharmacy Management System](https://github.com/YomithG/HealthFirst-pharmacy-management-system)
 
 - 🌱 I’m currently learning **Java**
